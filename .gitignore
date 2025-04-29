@@ -4,5 +4,7 @@ dist
 .rvmrc
 .ruby-version
 *.rbc
-koans/*
+# koans/*
 *~
+sorbet/
+bin/
